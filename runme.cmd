@@ -1,2 +1,2 @@
-nuget.exe install -source http://api.dev.nugettest.org/v3-index/index.json -verbosity detailed
+nuget.exe restore -source http://api.dev.nugettest.org/v3-index/index.json -verbosity detailed
 echo %ERRORLEVEL%
