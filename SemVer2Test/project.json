@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "TestNugetPackage2": "0.0.4-alpha.2"
   },
   "frameworks": {
     "net452": {}
